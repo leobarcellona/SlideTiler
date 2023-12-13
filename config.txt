@@ -1,0 +1,5 @@
+in_path=[[/home/leonardo]]
+out_path=[[/home/leonardo]]
+canvas_dimension=[[960;640]]
+tiles_color=[[None]]
+labels=[[0;Class0;#0000ff][1;Class1;#c90000][3;Class3;#00d900]]
