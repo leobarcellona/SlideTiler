@@ -2,6 +2,9 @@
 
 This page contains SlideTiler, an open source annotation tools. 
 
+Inline-style: 
+![alt text](https://github.com/leobarcellona/SlideTiler/blob/main/images/slidetiler_example.gif "SlideTiler")
+
 If you use the tool, please cite us:
 
 Barcellona, Leonardo, Lorenzo Nicolè, Rocco Cappellesso, Angelo Paolo Dei Tos, and Stefano Ghidoni. "SlideTiler: A dataset creator software for boosting deep learning on histological whole slide images." Journal of Pathology Informatics (2023): 100356.
