@@ -13,6 +13,8 @@ If you use the tool, please cite us:
   publisher={Elsevier}
 }
 
+Barcellona, Leonardo, Lorenzo Nicolè, Rocco Cappellesso, Angelo Paolo Dei Tos, and Stefano Ghidoni. "SlideTiler: A dataset creator software for boosting deep learning on histological whole slide images." Journal of Pathology Informatics (2023): 100356.
+
 
 ## How to use slide tiler
 For Windows 10 and 11 you can download our standalone version here: https://drive.google.com/file/d/15Z9boaYzt_JReghEbwF9kvP5hIodo-QX/view?usp=sharing
