@@ -1,0 +1,7 @@
+matplotlib
+tensorflow
+tqdm
+scikit-image
+stardist
+shapely
+openslide-python
