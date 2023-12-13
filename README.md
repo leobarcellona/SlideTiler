@@ -2,7 +2,6 @@
 
 This page contains SlideTiler, an open source annotation tools. 
 
-Inline-style: 
 ![alt text](https://github.com/leobarcellona/SlideTiler/blob/main/images/slidetiler_example.gif "SlideTiler")
 
 If you use the tool, please cite us:
